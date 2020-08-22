@@ -7,7 +7,7 @@ This is the Code Institute student template for Gitpod. We have preinstalled all
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
+å
 `python3 -m http.server`
 
 A blue button should appear to click: _Make Public_,
